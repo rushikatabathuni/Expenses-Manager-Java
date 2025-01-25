@@ -76,14 +76,6 @@ To run this project, you need to have the following installed:
 ### File Structure
 
 
- ```bash
-/personal-finance-tracker
-    ├── MainFrame.java            # Main program logic with GUI and file handling
-    ├── expenses.csv              # CSV file storing expenses (Name, Amount, Date)
-    ├── incomes.csv               # CSV file storing incomes (Source, Amount, Date)
-    ├── bank_balance.csv          # CSV file storing bank balance
-    └── README.md                 # Project documentation (this file)
-```
 
 ### CSV File Formats
 
