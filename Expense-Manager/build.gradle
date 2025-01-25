@@ -1,0 +1,14 @@
+// Apply the Java plugin
+plugins {
+    id 'java'  // Make sure this is the correct plugin for your Java project
+}
+
+// Repositories where Gradle should look for dependencies
+repositories {
+    mavenCentral()  // This tells Gradle to search for dependencies in Maven Central
+}
+
+// Define dependencies needed for your project
+dependencies {
+    implementation 'com.opencsv:opencsv:5.7.1'
+}
