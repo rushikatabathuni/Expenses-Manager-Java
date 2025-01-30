@@ -85,3 +85,11 @@ To run this project, you need to have the following installed:
 
 - **bank_balance.csv**: The current bank balance, stored as a single number.
 
+
+### ScreenShots
+
+![Main](main.png)
+![Expenses](expense_details.png)
+![Incomes](income_details.png)
+![Expense List](expense_list.png)
+![Income List](income_list.png)
